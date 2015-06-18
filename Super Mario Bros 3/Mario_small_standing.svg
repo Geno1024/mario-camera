@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="160px" height="160px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+	<rect x="40" y="10" width="60" height="10" fill="black"/>
+	<polygon points="20,40 20,30 30,30 30,20 40,20 40,10 100,10 100,20 120,20 120,30 130,30 130,40 120,40 120,30 100,30 100,20 40,20 40,30 30,30 30,40 20,40" fill="black"/>
+</svg>
+
+
+
+<!--
+
+        111111111111
+      11************1111
+    11******************11
+    111111OOOO11OO111111
+  11OOOO1111OO11OOOOOOOO11
+  11OOOO1111OOOO11OOOOOO11
+    1111OOOOOO1111111111
+      1111OOOOOOOOOO11
+    11****1111****11
+  11********1111****11
+  11********1111111111
+    11OOOOOO1111OO1111
+    11OOOO******111111
+      11**********11
+        11111111111
+-->
